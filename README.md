@@ -5,7 +5,9 @@ A curated list of publication for 3d reconstruction
 
 ## 0. Survey 
 [1] Deep Learning for Multi-view Stereo via Plane Sweep: A Survey [PDF](https://arxiv.org/pdf/2106.15328.pdf)
+
 [2] 自监督MVS论文总结：[链接](https://zhuanlan.zhihu.com/p/439210991)
+
 [3] 基于深度学习的三维重建系统（利用MVSNet进行深度估计）：[链接](https://zhuanlan.zhihu.com/p/442441726)
 
 ## 1. MVS
@@ -15,14 +17,19 @@ A curated list of publication for 3d reconstruction
 ## 2. 自监督MVS
 [1] Learning Unsupervised Multi-View Stereopsis via Robust Photometric Consistency
     [code](https://tejaskhot.github.io/unsup_mvs/)
+    
 [2] MVS2: Deep Unsupervised Multi-View Stereo with Multi-View Symmetry
     [paper](https://ieeexplore.ieee.org/abstract/document/8885975)
+    
 [3] M3VSNet: Unsupervised Multi-metric Multi-view Stereo Network
     [code](https://github.com/whubaichuan/M3VSNet)
+    
 [4] Self-supervised Learning of Depth Inference for Multi-view Stereo
     [code](https://github.com/JiayuYANG/Self-supervised-CVP-MVSNet)
+    
 [5] Digging into Uncertainty in Self-supervised Multi-view Stereo
     [code](https://github.com/ToughStoneX/U-MVS)
+    
 [6] Self-supervised Multi-view Stereo via Effective Co-Segmentation and Data-Augmentation
     [code](https://github.com/ToughStoneX/Self-Supervised-MVS)
 
